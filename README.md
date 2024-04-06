@@ -1,6 +1,6 @@
 # rabinkarp
 # Description
-Welcome to rabin karp algorithm! This algorithm is implemented in C, C++, and Python languages. You can access it in any one of those language.
+Welcome to rabin karp algorithm! This algorithm is implemented in C, C++, and Python languages. You can access it in any one of those language. In this we are taking input from file i.e.,(used File handling).
 
 # Idea contributes
 1. Bug Fixes: Look for issues labeled "bug" or "defect" that describe problems in the code. Once you understand the issue, propose a fix by creating a pull request with your changes.
