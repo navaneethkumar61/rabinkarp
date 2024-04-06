@@ -15,3 +15,6 @@ Welcome to rabin karp algorithm! This algorithm is implemented in C, C++, and Py
 3. Make sure of pull requests are merged or not or wait until it merges.
 4. Add contributions or ideas
 5. Commit changes and push it carefully and with proper purpose.
+
+## Note:
+Make sure that your input file and program file are in same location.
